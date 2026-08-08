@@ -1,0 +1,8 @@
+parameters:
+    level: 7
+    paths:
+        - src
+        - config
+    configDirectories:
+        - config
+    tmpDir: build/phpstan
